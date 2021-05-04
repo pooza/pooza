@@ -13,5 +13,5 @@
 
 ## Contact
 
-[美食丼](https://mstdn.b-shock.org)のアカウント[@pooza@mstdn.b-shock.org](https://mstdn.b-shock.org/@pooza)が一番連絡がつきやすい、言わば「本垢」です。
+[美食丼](https://mstdn.b-shock.org)のアカウント[@pooza@mstdn.b-shock.org](https://mstdn.b-shock.org/@pooza)が一番連絡がつきやすい、言わば「本垢」です。  
 TwitterとFacebookは辞めました。
