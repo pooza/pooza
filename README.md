@@ -10,3 +10,8 @@
 - [Reco](https://reco.shrieker.net) 録画サーバの利用者の為の私的な[めいすきー](https://github.com/mei23/misskey)インスタンス。
 - [美食スキー](https://dev.mis.b-shock.org) 開発/テスト用の私的な[Misskey](https://github.com/misskey-dev/misskey)インスタンス。
 - [美食レロマ](https://dev.ple.b-shock.org) 開発/テスト用の私的な[Pleroma](https://git.pleroma.social/pleroma/pleroma)インスタンス。
+
+## Contact
+
+[美食丼](https://mstdn.b-shock.org)のアカウント[@pooza@mstdn.b-shock.org](https://mstdn.b-shock.org/@pooza)が一番連絡がつきやすい、言わば「本垢」です。
+TwitterとFacebookは辞めました。
