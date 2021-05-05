@@ -1,5 +1,9 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=pooza&hide=prs,issues,contribs)
 
+## Keyoxideによるプロフィール
+
+https://keyoxide.org/hkp/459983A9BAD60ACE4F8EC8EB98DEE2E2C876D8D1
+
 ## Fedi instances
 
 以下のFediverseインスタンスを管理しています。
