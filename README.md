@@ -2,7 +2,7 @@
 
 ## Keyoxideによるプロフィール
 
-https://keyoxide.org/hkp/459983A9BAD60ACE4F8EC8EB98DEE2E2C876D8D1
+https://keyoxide.org/hkp/D7467BB6F293BDF51E738BD97D1F5AE8185B9045
 
 ## Fedi instances
 
