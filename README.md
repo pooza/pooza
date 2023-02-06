@@ -12,7 +12,7 @@ https://keyoxide.org/hkp/D7467BB6F293BDF51E738BD97D1F5AE8185B9045
 - [キュアスタ！](https://precure.ml) プリキュアシリーズのファンの為の[Mastodon](https://github.com/tootsuite/mastodon)インスタンス。（2代目管理人）
 - [デルムリン丼](https://mstdn.delmulin.com) 「ドラゴンクエストダイの大冒険」ファンの為の[Mastodon](https://github.com/tootsuite/mastodon)インスタンス。略してデル丼。
 - [Reco](https://reco.shrieker.net) 録画サーバの利用者の為の私的な[めいすきー](https://github.com/mei23/misskey)インスタンス。
-- [美食スキー](https://dev.mis.b-shock.org) 開発/テスト用の私的な[Misskey](https://github.com/misskey-dev/misskey)インスタンス。
+- ~~[美食スキー](https://dev.mis.b-shock.org) 開発/テスト用の私的な[Misskey](https://github.com/misskey-dev/misskey)インスタンス。~~
 - [美食レロマ](https://leroma.shrieker.net) 開発/テスト用の私的な[Pleroma](https://git.pleroma.social/pleroma/pleroma)インスタンス。
 
 ## Contact
