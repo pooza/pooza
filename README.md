@@ -1,6 +1,6 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=pooza&hide=prs,issues,contribs)
 
-## Keyoxideによるプロフィール
+## Keyoxideによる署名
 
 https://keyoxide.org/hkp/D7467BB6F293BDF51E738BD97D1F5AE8185B9045
 
